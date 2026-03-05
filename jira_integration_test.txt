@@ -1,0 +1,16 @@
+Jira Integration Test File
+==========================
+
+This file tests the Jira-GitHub integration.
+
+Test Details:
+- Project Key: PROJ
+- Repository: admin_ops
+- Integration Type: Smart Commits
+
+If integration is working:
+1. This commit should appear in Jira issue PROJ-1
+2. The development panel should show this repository
+3. Branch information should be visible in Jira
+
+Created for testing purposes.
