@@ -1,0 +1,11 @@
+Webhook Test File
+=================
+Created: Testing
+Purpose: Verify Jenkins webhook automatic triggering
+Status: Testing...
+
+This file was created to test the GitHub → Jenkins webhook integration.
+Repository: admin_ops
+Webhook URL: https://gms.genairesonance.com/github-webhook/
+
+If this commit triggers a Jenkins build, the webhook is working correctly!
