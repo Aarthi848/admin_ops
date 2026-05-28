@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent { label 'live_server' }
     
     environment {
         APP_NAME = 'admin-ops'
